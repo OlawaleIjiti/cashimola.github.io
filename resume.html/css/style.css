@@ -1,0 +1,33 @@
+@charset "utf-8";
+
+body{
+	background-image: url("ep_naturalblack.png");
+	color: white;
+	width: 80%;
+	margin: auto;
+}
+
+.span10{
+	width: 80%;
+	background-color: blanchedalmond;
+	margin: auto;
+	color: black;
+}
+ul{
+	list-style-type: none;
+	display: flex;
+	justify-content: space-around;
+	
+}
+
+
+li{
+	display: inline-block;
+	padding: 20px 20px;
+	font-size: 30px;
+	
+}
+a{
+	text-decoration: none;
+	color: black;
+}
